@@ -1,0 +1,10 @@
+#ifndef INTCTRL_CONFIG_H_
+#define INTCTRL_CONFIG_H_
+
+#define NVIC_GROUPING_SYSTEM    NVIC_GROUPING_SYSTEM_YYY
+
+
+
+
+
+#endif
