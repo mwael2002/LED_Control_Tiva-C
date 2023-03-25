@@ -1,6 +1,7 @@
 # LED_Control_Tiva-C
-
 Control blinking of an LED for a user-defined ON and OFF periods.
+
+Keil4 IDE is used to develop the project.
 
 ## Software drivers:
 #### 1- GPIO (consists of port and DIO drivers)
