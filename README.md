@@ -2,7 +2,7 @@
 
 Control blinking of an LED for a user-defined ON and OFF periods.
 
-##Software drivers:
+## Software drivers:
 1- GPIO (consists of port and DIO drivers)
 2- Timer
 3- Interrupt
